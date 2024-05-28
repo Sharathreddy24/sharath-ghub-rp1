@@ -1,9 +1,12 @@
 Technical Design Document:
 ==================
+
 a) Sources, Credentials, Security Tokens etc.
+
        Vinay Tech Business Excel.xlsx [ No Security token, No Credentials as it is local.]
 
 	Factpayments, DimDate, DimLoc
+
 b) Transformations
 
 
@@ -19,6 +22,5 @@ Yearly (page): count of std(Card), Max Df(Card), Table, matrix, Slicer(Year), bu
 Monthly page: table, slicer, pie or donut, line
 
 f) Report concepts
-Drill through yearly to monthly
-Mobile view 
+Drill through yearly to monthly in Mobile view 
 
